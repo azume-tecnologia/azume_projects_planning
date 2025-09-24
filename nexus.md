@@ -141,3 +141,12 @@ DeepSeek, Grok).
     natural.
 -   Monitoramento de padrões de problemas recorrentes para alimentar
     melhorias de produto.
+
+------------------------------------------------------------------------
+
+## 🔮 Endgame
+
+- Internalização do Azume ADM (parte do Nexus).
+- Internalização do CRM (IA nativa).
+- Aprimoramento do Helpdesk.
+- Refatoramento do Nexus para SaaS (produto).
