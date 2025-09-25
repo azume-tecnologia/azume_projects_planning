@@ -6,6 +6,9 @@ A **Zoe** será a ferramenta interna de **IA multi-agente** do Azume, integrando
 - **Suporte Técnico Inteligente**  
   Atendimento 24h para clientes, com base em conhecimento documentado e abertura de tickets.
 
+- **Ambientação Inteligente**  
+  Zoe guiará usuários em um processo de ambientação personalizado, ajustando configurações iniciais, sugerindo boas práticas de uso e oferecendo treinamentos dinâmicos, garantindo que cada cliente explore ao máximo os recursos do Azume desde o primeiro contato.
+
 - **Propostas via Linguagem Natural**  
   Geração de propostas comerciais completas apenas com comandos de texto ou voz.
 
@@ -36,7 +39,26 @@ A **Zoe** será a ferramenta interna de **IA multi-agente** do Azume, integrando
 - Nível de satisfação do cliente (CSAT/NPS).  
 - Nº de tickets abertos automaticamente via chat.  
 
-### **Fase 2 – Propostas por Linguagem Natural**
+---
+
+### **Fase 2 – Ambientação Inteligente**
+- **Onboarding guiado por IA**: Zoe apresenta os recursos do Azume de forma interativa e personalizada.  
+- **Configuração automatizada**: ajuste de relatórios, templates e funil com base nos dados iniciais da empresa.  
+- **Personalização contínua**: aprendizado das preferências do usuário para moldar a experiência ao longo do tempo.  
+- **Sugestões proativas de uso**: recomenda recursos não explorados ou melhorias de processos.  
+- **Check-ups de ambientação**: análises periódicas de uso com recomendações práticas.  
+- **Guias multimodais**: explicações em áudio, vídeos curtos e micro-tutoriais.  
+- **Suporte contextual**: instruções exibidas exatamente quando o usuário tem dúvidas.  
+
+**KPIs:**  
+- Tempo médio de ativação completa de um novo usuário.  
+- % de usuários que completam o onboarding.  
+- Taxa de uso dos recursos recomendados pela Zoe.  
+- Nível de satisfação do usuário após o onboarding.  
+
+---
+
+### **Fase 3 – Propostas por Linguagem Natural**
 - Geração de propostas comerciais com base em prompts simples.  
 - Integração com dados de clientes já cadastrados no CRM.  
 - Personalização de templates de propostas.  
@@ -47,7 +69,9 @@ A **Zoe** será a ferramenta interna de **IA multi-agente** do Azume, integrando
 - Taxa de adoção da funcionalidade pelos usuários ativos.  
 - % de propostas enviadas que resultaram em follow-up no CRM.  
 
-### **Fase 3 – Leitura de Faturas**
+---
+
+### **Fase 4 – Leitura de Faturas**
 - Upload ou envio de faturas via WhatsApp/chat.  
 - Extração de dados-chave (consumo, tarifas, encargos).  
 - Integração direta com cálculo e geração de proposta.  
@@ -57,7 +81,9 @@ A **Zoe** será a ferramenta interna de **IA multi-agente** do Azume, integrando
 - Nº de faturas processadas por mês.  
 - % de faturas processadas que geraram propostas comerciais.  
 
-### **Fase 4 – Acesso Completo ao Azume por Chat**
+---
+
+### **Fase 5 – Acesso Completo ao Azume por Chat**
 - Criação de camada conversacional para todas as features do CRM e Financeiro.  
 - Atualização de funil de vendas, contratos, dashboards e relatórios via chat.  
 - Integração com workflows automatizados já existentes.  
@@ -67,7 +93,9 @@ A **Zoe** será a ferramenta interna de **IA multi-agente** do Azume, integrando
 - % de funcionalidades do CRM/Financeiro acessíveis via Zoe.  
 - Redução de tempo em atividades operacionais recorrentes.  
 
-### **Fase 5 – Uso 100% via WhatsApp**
+---
+
+### **Fase 6 – Uso 100% via WhatsApp**
 - Disponibilização de toda a experiência Zoe dentro do WhatsApp.  
 - Suporte a comandos avançados e integração com envio de documentos.  
 
@@ -76,7 +104,9 @@ A **Zoe** será a ferramenta interna de **IA multi-agente** do Azume, integrando
 - Nº de operações concluídas com sucesso via WhatsApp.  
 - Taxa de retenção de usuários que optam pelo uso exclusivo via WhatsApp.  
 
-### **Fase 6 – Criação de Agentes Customizados**
+---
+
+### **Fase 7 – Criação de Agentes Customizados**
 - Usuários poderão criar agentes próprios, com instruções personalizadas, voltados para vendas ou atendimento.  
 - Integração desses agentes em websites e canais digitais dos usuários.  
 - Expansão da autonomia dos clientes, permitindo que configurem experiências conversacionais sob medida.  
@@ -86,6 +116,8 @@ A **Zoe** será a ferramenta interna de **IA multi-agente** do Azume, integrando
 - % de usuários que configuraram pelo menos 1 agente.  
 - Volume de leads/mensagens atendidas por agentes customizados.  
 - Nível de satisfação dos usuários com agentes próprios.  
+
+---
 
 ### **🔮 Endgame – Plataforma Completa**
 - Expansão de agentes customizados para integrações externas.  
